@@ -70,7 +70,7 @@ If you prefer to run everything locally, follow these steps:
 
    ```bash
    git clone https://github.com/yourusername/denoising-biolum-microscopy.git
-   cd denoising-biolum-microscopy ```
+   cd denoising-biolum-microscopy
 
 2. **Install dependencies:**
 
