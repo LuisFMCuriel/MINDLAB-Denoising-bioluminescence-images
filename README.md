@@ -50,3 +50,29 @@ To get started, you can run the notebook in [Google Colab](#google-colab) or set
 │   └── preprocess.py         # Data preprocessing script
 │
 └── README.md                 # This file
+
+## Usage
+
+### Google Colab
+
+The easiest way to follow along with the workshop is by using the provided Google Colab notebook.
+
+1. Open the [denoising_workshop.ipynb](./notebooks/denoising_workshop.ipynb) notebook in Google Colab.
+2. Follow the step-by-step instructions to run the model on sample data or your own images.
+3. No local setup or GPU is required as Colab provides these resources.
+
+### Local Setup
+
+If you prefer to run everything locally, follow these steps:
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/yourusername/denoising-biolum-microscopy.git
+   cd denoising-biolum-microscopy
+
+2. **Install dependencies:**
+
+Make sure you have Python 3.8 or higher. Install the required libraries:
+
+
