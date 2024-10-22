@@ -1,2 +1,52 @@
-# MINDLAB-Denoising-bioluminescence-images
-README
+# Denoising Bioluminescence Microscopy with Deep Learning
+
+Welcome to the **Denoising Bioluminescence Microscopy** workshop repository! This repository provides the materials and scripts necessary to denoise microscopy images using deep learning, specifically aimed at enhancing noisy bioluminescence images. This repository includes pre-trained models, scripts, and a Google Colab notebook to make it easier for participants to follow along during the workshop.
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Repository Structure](#repository-structure)
+- [Usage](#usage)
+  - [Google Colab](#google-colab)
+  - [Local Setup](#local-setup)
+- [Example Results](#example-results)
+- [License](#license)
+- [Contributing](#contributing)
+
+## Introduction
+
+Bioluminescence microscopy is a powerful imaging technique, but it often suffers from high levels of noise, especially in low-light conditions. Deep learning-based methods, particularly convolutional neural networks (CNNs), have shown great promise in addressing these issues. In this workshop, we will explore how to apply deep learning models to denoise bioluminescence microscopy images, and participants will be guided through the process using Google Colab.
+
+## Features
+
+- **Deep learning-based denoising models**: Pre-trained deep learning models, such as UNet, are provided for denoising tasks.
+- **Google Colab notebook**: Easy-to-use notebook for running the models directly on the cloud, without the need for local setup.
+- **Training scripts**: Python scripts for preprocessing data and training custom models if desired.
+- **Sample data**: One sample bioluminescence microscopy image is included to demonstrate the process.
+
+## Getting Started
+
+To get started, you can run the notebook in [Google Colab](#google-colab) or set up the repository locally. Detailed instructions for both are provided below.
+
+## Repository Structure
+
+```plaintext
+/denoising-biolum-microscopy
+│
+├── /data                     # Sample or synthetic data for training/testing
+│   └── /raw                  # Raw microscopy images
+│   └── /processed            # Preprocessed or noisy/clean image pairs
+│
+├── /models                   # Pre-trained models or saved checkpoints
+│   └── denoising_model.h5    # Example deep learning model (e.g., a UNet model)
+│
+├── /notebooks                # Google Colab notebooks for participants
+│   └── denoising_workshop.ipynb
+│
+├── /scripts                  # Python scripts for preprocessing, training, etc.
+│   └── train.py              # Script to train a model from scratch
+│   └── preprocess.py         # Data preprocessing script
+│
+└── README.md                 # This file
