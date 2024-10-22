@@ -50,6 +50,7 @@ To get started, you can run the notebook in [Google Colab](#google-colab) or set
 │   └── preprocess.py         # Data preprocessing script
 │
 └── README.md                 # This file
+```
 
 ## Usage
 
@@ -69,10 +70,10 @@ If you prefer to run everything locally, follow these steps:
 
    ```bash
    git clone https://github.com/yourusername/denoising-biolum-microscopy.git
-   cd denoising-biolum-microscopy
+   cd denoising-biolum-microscopy ```
 
 2. **Install dependencies:**
 
-Make sure you have Python 3.8 or higher. Install the required libraries:
+Make sure you have Python 3.6 or higher. Install the required libraries:
 
 
