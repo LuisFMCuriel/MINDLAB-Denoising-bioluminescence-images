@@ -36,18 +36,17 @@ To get started, you can run the notebook in [Google Colab](#google-colab) or set
 /denoising-biolum-microscopy
 │
 ├── /data                     # Sample or synthetic data for training/testing
-│   └── /raw                  # Raw microscopy images
-│   └── /processed            # Preprocessed or noisy/clean image pairs
+│   └── /prediction           # Inference of the image
+│   └── /source				  # Raw microscopy images
 │
 ├── /models                   # Pre-trained models or saved checkpoints
-│   └── denoising_model.h5    # Example deep learning model (e.g., a UNet model)
+│   └── denoising_model       # Example deep learning model (e.g., a UNet model)
 │
-├── /notebooks                # Google Colab notebooks for participants
-│   └── denoising_workshop.ipynb
+├── /media                    # media files
 │
-├── /scripts                  # Python scripts for preprocessing, training, etc.
-│   └── train.py              # Script to train a model from scratch
-│   └── preprocess.py         # Data preprocessing script
+├── /Instructions             # instructions for the workshop
+│
+├── /denoising_workshop.ipynb # step-by-step guide for denoising bioluminescence images
 │
 └── README.md                 # This file
 ```
