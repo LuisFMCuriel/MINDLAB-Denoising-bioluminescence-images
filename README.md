@@ -66,6 +66,7 @@ The easiest way to follow along with the workshop is by using the provided Googl
 
 Below is an example showing a noisy bioluminescence microscopy image and the result after denoising with the provided model:
 
+![Denoising](https://github.com/LuisFMCuriel/MINDLAB-Denoising-bioluminescence-images/blob/main/media/fig.png)
 
 ### License
 
