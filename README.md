@@ -9,8 +9,6 @@ Welcome to the **Denoising Bioluminescence Microscopy** workshop repository! Thi
 - [Getting Started](#getting-started)
 - [Repository Structure](#repository-structure)
 - [Usage](#usage)
-  - [Google Colab](#google-colab)
-  - [Local Setup](#local-setup)
 - [Example Results](#example-results)
 - [License](#license)
 - [Contributing](#contributing)
