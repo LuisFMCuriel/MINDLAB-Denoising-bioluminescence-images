@@ -72,3 +72,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ### Contributing
 
 Contributions are welcome! Please feel free to submit issues or pull requests to help improve the repository.
+
+
+## References
+
+[1] Morales-Curiel, L. F., Castro-Olvera, G., Gonzalez, A., Lin, L., El-Quessny, M., Porta-de-la-Riva, M., Severino, J., Battle, L., Ramallo, D., Ruprech, V., Loza-Alvarez, P., & Krieg, M. (2022). Volumetric imaging of fast cellular dynamics with deep learning enhanced bioluminescence microscopy. Communications Biology, 5(1), 1330. doi:10.1038/s42003-022-04292-x
