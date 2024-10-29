@@ -1,6 +1,6 @@
 # Denoising Bioluminescence Microscopy with Deep Learning
 
-Welcome to the **Denoising Bioluminescence Microscopy** workshop repository! This repository provides the materials and scripts necessary to denoise microscopy images using deep learning, specifically aimed at enhancing noisy bioluminescence images. This repository includes pre-trained models, scripts, and a Google Colab notebook to make it easier for participants to follow along during the workshop.
+Welcome to the **Denoising Bioluminescence Microscopy** workshop repository! This repository provides the materials and scripts necessary to denoise microscopy images using deep learning, specifically aimed at enhancing noisy bioluminescence images. It includes pre-trained models, scripts, and a Google Colab notebook to make it easier for participants to follow along during the workshop.
 
 ## Table of Contents
 
